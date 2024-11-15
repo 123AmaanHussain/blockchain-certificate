@@ -1,0 +1,13 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore environment variables
+.env
+
+# Ignore Truffle build files
+cert_project/build/
+cert_project/node_modules/
+
+# Ignore log files
+*.log
